@@ -1,0 +1,87 @@
+★별표★
+-padding 0 15px해서 안될때 바깥 박스에 margin 0 -15px 주기
+-박스 이름 안겹치게 하고 간단하게 하기 섹션별로 박스 잘 나누기
+-반복되는 서식(디자인)은 이름 통일하기
+
+
+비디오 소스
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/UC_7I84qKIA" title="MINI. 세상을 사랑하자. BIG LOVE." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+https://www.mini.co.kr/ko_KR/home.html?tl=sea-nave-pbcr-tac-fpy-.-home-.-.-.-954186a4fd5b
+
+
+<헤더> 로고 메뉴 -로고 픽스드
+왼 - 로고 
+중 - Models       Find & Buy      services & Accessories       Discover MINI         MINI WITH BIG LOVE 
+오 - 아이콘 2개
+
+<바디> 
+*1 메인비쥬얼 (auto slide)
+
+01 MINI CONVERTIBIE SEASIDE EDITION.
+02 MINI 5월 프로모션
+03 BIG LOVE.
+04 MINI ELECTRIC.
+05 MINI RESOLUTE EDITION.
+
+<a> MINI SHOP ONLINE 바로가기
+
+*2 섹션 1
+
+미니쿠퍼 차들 전시 이미지 나열
+MINI 3-DOOR HATCH      MINI 5-DOOR HATCH    MINI CONVERTIBLE     MINI CLUBMAN
+MINI COUNTRYMAN       MINI ELECTRIC       JOHN COOPER WORKS   MINI SPECIAL EDITIONS 
+
+WELCOME TO MINI.    MINI 공식 전시장 찾기
+
+*2 섹션 2 (none auto)
+
+-offes-
+
+1슬라이드 -MINI RESOLUTE EDITION.     -MINI CONVERTIBIE SEASIDE EDITION.
+2슬라이드 - MINI 리콜서비스.    -MINI 코리아 한국형 레몬법 적용.
+
+
+ 
+*2 섹션 3 (none auto)
+
+-NEWS-
+
+유튜브 동영상 넣기.
+<h2>BIG LOVE. 세상을 사랑하자.</h2>
+                <p>MINI가 세상을 향해 외쳐온 BIG LOVE.</p>
+                <p>그 속에는 어떤 뜻이 있을까요? 그리고 어떤 가치를 담고 있을까요?지금부터 MINI가 말하는 BIG LOVE를 여러분들께 소개합니다.</p>
+
+업 슬라이드
+
+3 푸터 
+
+공지사항     연관 채널        법률 약관 정보          개인정보 처리방침          리콜 대상 확인        컨택 포인트 
+미니로고
+© MINI 2023
+
+
+4. TO TOP
+
+이달의 프로모션
+MINI SHOP ONLINE
+MINI 시승 신청
+MINI 전시장 찾기
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
