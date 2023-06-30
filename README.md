@@ -1,1 +1,1 @@
-# project02
+# project02_mini
